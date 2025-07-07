@@ -14,13 +14,14 @@ A simple and interactive countdown timer for a product giveaway, showing days, h
 - Styled with CSS variables and modern layout
 - Accessible and lightweight — no dependencies except Font Awesome (CDN)
 
-Project Structure
-
+📁 Project Structure
+bash
+Copy
+Edit
 /countdown-giveaway
 │
-
-- ├── index.html # Main HTML file
-- ├── style.css # Stylesheet
-- ├── script.js # Countdown functionality
-- ├── gift.jpeg # Giveaway product image
-- └── README.md # Documentation
+- ├── index.html       # Main HTML file
+- ├── style.css        # Stylesheet
+- ├── script.js        # Countdown functionality
+- ├── gift.jpeg        # Giveaway product image
+- └── README.md        # Documentation
